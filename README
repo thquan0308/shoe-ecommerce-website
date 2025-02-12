@@ -1,0 +1,12 @@
+Website được xây dựng trên nền tảng Java JSP Servlet trong môi trường phần mềm Eclipse.
+Các công nghệ được sử dụng:
+−	Microsoft SQL Server 2019 
+−	Thiết kế trang web bằng ngôn ngữ HTML, CSS, Javascript, Bootstrap, jQuery
+−	Giao tiếp với cơ sở dữ liệu bằng JDBC
+−	Thực hiện đồ án theo mô hình MVC
+−	Viết code các chức năng của trang web bằng Java Servlet, Ajax
+Tổ chức các lớp của chương trình
+Chương trình được theo viết theo mô hình 3 tầng
+−	Model
+−	View: các trang JSP chứa các giao diện của phần mềm
+−	Controller: chứa các class java servlet
